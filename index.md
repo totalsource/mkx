@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+# Character list:
 
-You can use the [editor on GitHub](https://github.com/totalsource/mkx/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## [Alien]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Jason Vorhees
 
-### Markdown
+## Kung Lao
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Jax
 
-```markdown
-Syntax highlighted code block
+## Sonya Blade
 
-# Header 1
-## Header 2
-### Header 3
+## Kenshi
 
-- Bulleted
-- List
+## Kitana
 
-1. Numbered
-2. List
+## Scorpion
 
-**Bold** and _Italic_ and `Code` text
+## Sub-Zero
 
-[Link](url) and ![Image](src)
-```
+## Mileena
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Takeda
 
-### Jekyll Themes
+## Cassie Cage
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/totalsource/mkx/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Jacqui Briggs
 
-### Support or Contact
+## Kung Jin
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Tanya
+
+## Bo' Rai Cho
+
+## Leatherface
+
+## Predator
+
+## Shinnok
+
+## Kano
+
+## Johnny Cage
+
+## Erron Black
+
+## Liu Kang
+
+## Ermac
+
+## Kotal Kahn
+
+## Reptile
+
+## Ferra/Torr
+
+## D'Vorah
+
+## Raiden
+
+## Quan Chi
+
+## Goro
+
+## Tremor
+
+## Triborg
