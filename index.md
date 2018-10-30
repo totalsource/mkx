@@ -2,66 +2,66 @@
 
 ## [Alien](https://github.com/totalsource/mkx/blob/master/001_alien)
 
-## Jason Vorhees
+## [Jason Vorhees](https://github.com/totalsource/mkx/blob/master/002_jasonvorhees)
 
-## Kung Lao
+## [Kung Lao](https://github.com/totalsource/mkx/blob/master/003_kunglao)
 
-## Jax
+## [Jax](https://github.com/totalsource/mkx/blob/master/004_jax)
 
-## Sonya Blade
+## [Sonya Blade](https://github.com/totalsource/mkx/blob/master/005_sonyablade)
 
-## Kenshi
+## [Kenshi](https://github.com/totalsource/mkx/blob/master/006_kenshi)
 
-## Kitana
+## [Kitana](https://github.com/totalsource/mkx/blob/master/007_kitana)
 
-## Scorpion
+## [Scorpion](https://github.com/totalsource/mkx/blob/master/008_scorpion)
 
-## Sub-Zero
+## [Sub-Zero](https://github.com/totalsource/mkx/blob/master/010_mileena)
 
-## Mileena
+## [Mileena](https://github.com/totalsource/mkx/blob/master/010_mileena)
 
-## Takeda
+## [Takeda](https://github.com/totalsource/mkx/blob/master/011_takeda)
 
-## Cassie Cage
+## [Cassie Cage](https://github.com/totalsource/mkx/blob/master/012_cassiecage)
 
-## Jacqui Briggs
+## [Jacqui Briggs](https://github.com/totalsource/mkx/blob/master/013_jacquibriggs)
 
-## Kung Jin
+## [Kung Jin](https://github.com/totalsource/mkx/blob/master/014_kungjin)
 
-## Tanya
+## [Tanya](https://github.com/totalsource/mkx/blob/master/015_tanya)
 
-## Bo' Rai Cho
+## [Bo' Rai Cho](https://github.com/totalsource/mkx/blob/master/016_boraicho)
 
-## Leatherface
+## [Leatherface](https://github.com/totalsource/mkx/blob/master/017_leatherface)
 
-## Predator
+## [Predator](https://github.com/totalsource/mkx/blob/master/018_predator)
 
-## Shinnok
+## [Shinnok](https://github.com/totalsource/mkx/blob/master/019_shinnok)
 
-## Kano
+## [Kano](https://github.com/totalsource/mkx/blob/master/020_kano)
 
-## Johnny Cage
+## [Johnny Cage](https://github.com/totalsource/mkx/blob/master/021_johnnycage)
 
-## Erron Black
+## [Erron Black](https://github.com/totalsource/mkx/blob/master/022_erronblack)
 
-## Liu Kang
+## [Liu Kang](https://github.com/totalsource/mkx/blob/master/023_liukang)
 
-## Ermac
+## [Ermac](https://github.com/totalsource/mkx/blob/master/024_ermac)
 
-## Kotal Kahn
+## [Kotal Kahn](https://github.com/totalsource/mkx/blob/master/025_kotalkahn)
 
-## Reptile
+## [Reptile](https://github.com/totalsource/mkx/blob/master/026_reptile)
 
-## Ferra/Torr
+## [Ferra/Torr](https://github.com/totalsource/mkx/blob/master/027_ferratorr)
 
-## D'Vorah
+## [D'Vorah](https://github.com/totalsource/mkx/blob/master/028_dvorah)
 
-## Raiden
+## [Raiden](https://github.com/totalsource/mkx/blob/master/029_raiden)
 
-## Quan Chi
+## [Quan Chi](https://github.com/totalsource/mkx/blob/master/030_quanchi)
 
-## Goro
+## [Goro](https://github.com/totalsource/mkx/blob/master/031_goro)
 
-## Tremor
+## [Tremor](https://github.com/totalsource/mkx/blob/master/032_tremor)
 
-## Triborg
+## [Triborg](https://github.com/totalsource/mkx/blob/master/033_triborg)
