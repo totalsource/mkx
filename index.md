@@ -1,3 +1,10 @@
+### NOTE THE FOLLOWING NOTATION KEYS:
+PlayStation/Xbox  
+1 = Square/X  
+2 = Triangle/Y  
+3 = X/A  
+4 = Circle/B  
+
 # Character list:
 
 ## [Alien](https://github.com/totalsource/mkx/blob/master/001_alien)
