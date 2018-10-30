@@ -6,7 +6,7 @@ PlayStation/Xbox
 4 = Circle/B  
 
 #### Explanation of words used:
-* **Enhanced**: A more powerful version of a special move, executed by pressing R2/RT simultaneously with the last button press in the special move. Costs 1 bar meter.  
+* **Enhanced**: A more powerful version of a special move, executed by pressing R2/RT simultaneous with the last button press in the special move. Costs 1 bar meter.  
 * **Armor**: Certain special moves, when **Enhanced**, protects the character from flinching. This means being able to take one hit without interupting the move.
 
 # Character list:
