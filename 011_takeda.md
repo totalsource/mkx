@@ -7,4 +7,5 @@
 
 ### Kunai
 Down, Back+1  
-Enhanced: Yes, no armor
+Enhanced: Yes
+Armor: None
