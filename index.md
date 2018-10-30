@@ -27,7 +27,7 @@ PlayStation/Xbox
 
 ## [Mileena](https://github.com/totalsource/mkx/blob/master/010_mileena)
 
-## [Takeda](https://github.com/totalsource/mkx/blob/master/011_takeda)
+## [Takeda](https://github.com/totalsource/mkx/blob/master/011_takeda.md)
 
 ## [Cassie Cage](https://github.com/totalsource/mkx/blob/master/012_cassiecage)
 
